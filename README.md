@@ -57,13 +57,14 @@ Design and deploy an API that:
 ## 📡 Live API
 
 **Base URL**
-https://agentic-honeypot-final-cc20.onrender.com/docs
+https://agentic-honeypot-final-cc20.onrender.com
+
 **Endpoint**
+
 POST /honeypot
 
 
 **Swagger Documentation**
-
 
 /docs
 
